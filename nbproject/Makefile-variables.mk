@@ -1,0 +1,13 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# XC8_18F14K22 configuration
+CND_ARTIFACT_DIR_XC8_18F14K22=dist/XC8_18F14K22/production
+CND_ARTIFACT_NAME_XC8_18F14K22=Bromografo.X.production.hex
+CND_ARTIFACT_PATH_XC8_18F14K22=dist/XC8_18F14K22/production/Bromografo.X.production.hex
+CND_PACKAGE_DIR_XC8_18F14K22=${CND_DISTDIR}/XC8_18F14K22/package
+CND_PACKAGE_NAME_XC8_18F14K22=bromografo.x.tar
+CND_PACKAGE_PATH_XC8_18F14K22=${CND_DISTDIR}/XC8_18F14K22/package/bromografo.x.tar
